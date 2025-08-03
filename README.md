@@ -4,7 +4,7 @@ Welcome to my personal portfolio CV website! This static site showcases my educa
 
 ## 🔗 Live CV
 
- [View My CV Live](https://github.com/WaleedAhmad-pf/Digital-CV)
+ [View My CV Live](https://waleedahmad-pf.github.io/Digital-CV/)
 
 
 ---
